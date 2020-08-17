@@ -1,0 +1,3 @@
+O que é o ReactJS ?
+E uma biblioteca de construção de interfaces de SPA(Single page aplications) para melhorar a experiência do úsuario final. Dando uma flexibilidade no projeto final.
+
